@@ -1,0 +1,300 @@
+IATA,City,Country
+AER,Sochi,Russia
+KZN,Kazan,Russia
+ASF,Astrakhan,Russia
+MRV,Mineralnye Vody,Russia
+CEK,Chelyabinsk,Russia
+OVB,Novosibirsk,Russia
+DME,Moscow,Russia
+NBC,Nizhnekamsk,Russia
+TGK,Taganrog,Russia
+UUA,Bugulma,Russia
+EGO,Belgorod,Russia
+KGD,Kaliningrad,Russia
+GYD,Baku,Azerbaijan
+LED,Saint Petersburg,Russia
+SVX,Yekaterinburg,Russia
+NJC,Nizhnevartovsk,Russia
+NUX,Novy Urengoy,Russia
+BTK,Bratsk,Russia
+IKT,Irkutsk,Russia
+HTA,Chita,Russia
+KCK,Kirensk,Russia
+ODO,Bodaybo,Russia
+UKX,Ust-Kut,Russia
+ULK,Lensk,Russia
+YKS,Yakutsk,Russia
+MJZ,Mirny,Russia
+BHK,Bukhara,Uzbekistan
+FEG,Fergana,Uzbekistan
+KSQ,Qarshi,Uzbekistan
+NMA,Namangan,Uzbekistan
+NVI,Navoi,Uzbekistan
+SKD,Samarkand,Uzbekistan
+TIV,Tivat,Montenegro
+EYK,Beloyarsky,Russia
+VKO,Moscow,Russia
+NCU,Nukus,Uzbekistan
+TJM,Tyumen,Russia
+UFA,Ufa,Russia
+NYM,Nadym,Russia
+OVS,Sovetsky,Russia
+UCT,Ukhta,Russia
+ARH,Arkhangelsk,Russia
+CSH,Solovetsky Islands,Russia
+MMK,Murmansk,Russia
+NNM,Naryan-Mar,Russia
+SVO,Moscow,Russia
+USK,Usinsk,Russia
+SCW,Syktyvkar,Russia
+TOS,Tromsø,Norway
+KRR,Krasnodar,Russia
+PYJ,Udachny,Russia
+KJA,Krasnoyarsk,Russia
+DYU,Dushanbe,Tajikistan
+LBD,Khujand,Tajikistan
+SGC,Surgut,Russia
+AKX,Aktobe,Kazakhstan
+CSY,Cheboksary,Russia
+ESL,Elista,Russia
+GRV,Grozny,Russia
+IJK,Izhevsk,Russia
+MCX,Makhachkala,Russia
+PES,Petrozavodsk,Russia
+PEZ,Penza,Russia
+SKX,Saransk,Russia
+ULV,Ulyanovsk,Russia
+VKT,Vorkuta,Russia
+VOZ,Voronezh,Russia
+KUF,Samara,Russia
+ROV,Rostov-on-Don,Russia
+EVN,Yerevan,Armenia
+VOG,Volgograd,Russia
+IAR,Yaroslavl,Russia
+KRO,Kurgan,Russia
+KVX,Kirov,Russia
+MQF,Magnitogorsk,Russia
+SAW,Pendik,Turkey
+URJ,Uray,Russia
+AYT,Antalya,Turkey
+KIV,Chişinău,Moldova
+ATH,Athens,Greek
+CFU,Corfu,Greek
+HER,Heraklion,Greek
+KGS,Kos,Greek
+RHO,Rhodes,Greek
+SKG,Thessaloniki,Greek
+BUS,Batumi,Turkey
+TBS,Tbilisi,Turkey
+KUT,Kutaisi,Turkey
+DUS,Düsseldorf,Germany
+FRA,Frankfurt,Germany
+MUC,Munich,Germany
+CDG,Paris,France
+MRS,Marseille,France
+ALG,Algiers,Algeria
+CTA,Catania,Italy
+PMO,Palermo,Italy
+PSA,Pisa,Italy
+CMN,Casablanca,Morocco
+HEL,Helsinki,Finland
+BLQ,Bologna,Italy
+FCO,Rome,Italy
+FRU,Bishkek,Kyrgyzstan
+MXP,Milan,Italy
+TAS,Tashkent,Uzbekistan
+VCE,Venice,Italy
+MSQ,Minsk,Belorus
+LHR,London,UK
+NBE,Enfidha,Tunis
+RIX,Riga,Latvia
+HLD,Hulunbuir,China
+PEK,Beijing,China
+BKK,Bangkok,Thailand
+HAV,Havana,Cuba
+HKG,Hong Kong,China
+KHV,Khabarovsk,Russia
+VVO,Vladivostok,Russia
+LCA,Larnaca,Greek
+CAN,Guangzhou,China
+URC,Ürümqi,China
+CEE,Cherepovets,Russia
+VUS,Velikiy Ustyug,Russia
+KVK,Apatity,Russia
+IAD,Washington,USA
+JFK,New York City,USA
+LAX,Los Angeles,USA
+MIA,Miami,USA
+SCO,Aktau,Kazakhstan
+CIT,Shymkent,Kazakhstan
+DMB,Taraz,Kazakhstan
+KQT,Bokhtar,Tajikistan
+TJU,Kulob,Tajikistan
+REN,Orenburg,Russia
+AUH,Abu Dhabi,United Arab Emirates
+BOJ,Burgas,Bulgary
+SOF,Sofia,Bulgary
+VAR,Varna,Bulgary
+DWC,Dubai,United Arab Emirates
+SHJ,Sharjah,United Arab Emirates
+VIE,Vienna,Austria
+NZH,Manzhouli,Mongolia
+AZN,Andijan,Uzbekistan
+TMJ,Termez,Uzbekistan
+UGC,Urgench,Uzbekistan
+UUS,Yuzhno-Sakhalinsk,Russia
+CTS,Sapporo,Japan
+DEE,Yuzhno-Kurilsk,Russia
+EKS,Shakhtyorsk,Russia
+HRB,Harbin,China
+ICN,Seoul,South Korea
+NRT,Narita,Japan
+OHH,Okha,Russia
+AGP,Málaga,Spain
+ALC,Alicante,Spain
+BCN,Barcelona,Spain
+MAD,Madrid,Spain
+PMI,Palma de Mallorca,Spain
+ABA,Abakan,Russia
+BQS,Blagoveshchensk,Russia
+OMS,Omsk,Russia
+GDX,Magadan,Russia
+KYZ,Kyzyl,Russia
+UUD,Ulan-Ude,Russia
+JMU,Jiamusi,China
+SLY,Salekhard,Russia
+IKA,Tehran,Iran
+LJU,Ljubljana,Slovenia
+FNJ,Pyongyang,North Korea
+BEG,Belgrade,Serbia
+ALA,Almaty,Kazakhstan
+IST,Istanbul,Turkey
+AMS,Amsterdam,Netherlands
+MLA,Valletta,Malta
+OSS,Osh,Kyrgyzstan
+GOJ,Nizhny Novgorod,Russia
+WAW,Warsaw,Poland
+GVA,Geneva,Switzerland
+ZRH,Zürich,Switzerland
+TLV,Tel Aviv,Israel
+OZH,Zaporizhzhia,Ukraine
+BEY,Beirut,Lebanon
+CAI,Cairo,Egypt
+PVG,Shanghai,China
+PRG,Prague,Czech Republic
+KLV,Karlovy Vary,Czech Republic
+PEE,Perm,Russia
+ULN,Ulaanbaatar,Mongolia
+TLL,Tallinn,Estonia
+TZX,Trabzon,Turkey
+CKH,Chokurdakh,Russia
+CYX,Chersky,Russia
+IKS,Tiksi,Russia
+MQJ,Khonuu,Russia
+NER,"Chulman, Neryungri",Russia
+SUK,Sakkyryr / Batagay-Alyta,Russia
+KBP,Kyiv,Ukraine
+ODS,Odesa,Ukraine
+DOH,Doha,Quatar
+IEV,Kyiv,Ukraine
+LWO,Lviv,Ukraine
+OSW,Orsk,Russia
+DYR,Anadyr,Russia
+NGK,Nogliki,Russia
+RMI,Rimini,Italy
+PWE,Pevek,Russia
+AMM,Amman,Jordan
+OTP,Bucharest,Romania
+AAQ,Anapa,Russia
+ASB,Ashgabat,Turkmenistan
+BAX,Barnaul,Russia
+GOA,Genoa,Italy
+KEJ,Kemerovo,Russia
+LIS,Lisbon,Portugal
+NOZ,Novokuznetsk,Russia
+NSK,Norilsk,Russia
+OGZ,Vladikavkaz,Russia
+PFO,Paphos,Greek
+PUY,Pula,Croatia
+PWQ,Pavlodar,Kazakhstan
+RGK,Gorno-Altaysk,Russia
+SIP,Simferopol,Ukraine
+STW,Stavropol,Russia
+TOF,Tomsk,Russia
+UKK,Oskemen,Kazakhstan
+VLC,Valencia,Spain
+VRN,Verona,Italy
+PKC,Petropavlovsk-Kamchatsky,Russia
+ARN,Stockholm,Sweden
+CPH,Copenhagen,Denmark
+OSL,Oslo,Norway
+BRU,Brussels,Belgium
+IAH,Houston,USA
+SIN,Singapore,Singapore
+FKB,Baden-Baden,Germany
+LEJ,Leipzig,Germany
+BUD,Budapest,Hungary
+DEL,Delhi,India
+NCE,Nice,France
+DNK,Dnipro,Ukraine
+DRS,Dresden,Germany
+GDZ,Gelendzhik,Russia
+HAJ,Hanover,Germany
+HAM,Hamburg,Germany
+HAN,Hanoi,Vietnam
+HRK,Kharkiv,Ukraine
+KGF,Karaganda,Kazakhstan
+KRK,Kraków,Poland
+MLE,Malé,Maldives
+PUJ,Punta Cana,Dominicana
+PUS,Busan,South Korea
+SGN,Ho Chi Minh City,Vietnam
+STR,Stuttgart,Germany
+TFS,Tenerife,Spain
+VNO,Vilnius,Lithuania
+YYZ,Toronto (Mississauga),Canada
+ZAG,Zagreb,Croatia
+HMA,Khanty-Mansiysk,Russia
+ESB,Ankara,Turkey
+TUN,Tunis,Tunis
+LGW,Gatwick,UK
+MAN,Manchester,UK
+CGN,Cologne/Bonn,Germany
+GBB,Qabala,Azerbaijan
+KVD,Ganja,Azerbaijan
+LLK,Lankaran,Azerbaijan
+LWN,Gyumri,Armenia
+CMB,Colombo,Sri-Lanka
+CUN,Cancún,Mexico
+DLM,Dalaman,Turkey
+GOI,Goa,India
+HKT,Phuket,Thailand
+HRG,Hurghada,Egypt
+KOV,Kokshetau,Kazakhstan
+PED,Pardubice,Czech Republic
+SSH,Sharm El Sheikh,Egypt
+SYX,Sanya,China
+VRA,Varadero,Cuba
+GUW,Atyrau,Kazakhstan
+KSN,Kostanay,Kazakhstan
+MRU,Plaine Magnien,Mauritius
+ORY,Paris,France
+SEZ,Victoria,Canada
+NYA,Nyagan,Russia
+UTS,Ust-Tsilma,Russia
+TBW,Tambov,Russia
+URS,Kursk,Russia
+CXR,Cam Ranh,Vietnam
+IAA,Igarka,Russia
+TGP,"Podkamennaya Tunguska, Bor",Russia
+THX,Turkhansk,Russia
+NOJ,Noyabrsk,Russia
+KGP,Kogalym,Russia
+TQL,Tarko-Sale,Russia
+TGD,Podgorica,Montenegro
+UKS,Sevastopol,Ukraine
+RTW,Saratov,Russia
+TXL,Berlin,Germany
+TSE,Nursultan,Kazakhstan
+DOK,Donetsk,Ukraine
+SXF,Berlin,Germany
