@@ -4,7 +4,11 @@ The study is conducted as as an end-of-course project for the "Network Analysis"
 
 The purpose of the project is to conduct network study in the field of spatial networks. In particular, I conducted a comparative study of airline passenger transportation networks of Russia (inside/to/from the country) in two different time spans: before and after international sanctions of 2014-2022. The main idea is to discover differences that occurred after the sanctions have been applied.
 
-
+## Repository content
+- <a href='https://github.com/AnastasiyaSopyryaeva/Airline-transportation-Network-Analysis/tree/main/data'>Data</a>
+- <a href='https://github.com/AnastasiyaSopyryaeva/Airline-transportation-Network-Analysis/blob/main/Airline%20transportation%20Network%20Analysis.ipynb'>Jupyter Notebook with data analysis process</a>
+- <a href='https://github.com/AnastasiyaSopyryaeva/Airline-transportation-Network-Analysis/blob/main/NA%20Project%20Report.pdf'>Detailed project report</a>: results and conclusions.
+- City-Airport code matching tables: <a href='https://github.com/AnastasiyaSopyryaeva/Airline-transportation-Network-Analysis/blob/main/iata-city-country%202014.csv'>2014</a>, <a href='https://github.com/AnastasiyaSopyryaeva/Airline-transportation-Network-Analysis/blob/main/iata-city-country%202022.csv'>2022</a>
 
 ## Resources and tecchnologies used for the project
 
